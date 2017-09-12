@@ -1,0 +1,22 @@
+.commentContainer{
+	margin: 20px auto;
+	background: pink;
+	width: 150px;
+	height: 150px;
+	
+}
+
+button{
+	width: 60px;
+	height: 30px;
+	margin-top: 20px;
+	
+	
+}
+
+.bord{
+	margin: 20px auto;
+	background: blue;
+	width: 200px;
+	height: auto;
+}
